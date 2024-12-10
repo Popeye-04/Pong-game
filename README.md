@@ -38,9 +38,9 @@ Este es un remake del clásico juego de Pong creado en Python utilizando el mód
 
 Si deseas modificar el juego, puedes ajustar:
 
-**- Velocidad de la pelota**: Edita las variables `ball.dx` y `ball.dy`.
-**- Tamaño de las paletas**: Cambia `stretch_wid` y `stretch_len` de las paletas.
-**- Condiciones de victoria**: Cambia el valor de puntos necesarios para ganar.
+- **Velocidad de la pelota**: Edita las variables `ball.dx` y `ball.dy`.
+- **Tamaño de las paletas**: Cambia `stretch_wid` y `stretch_len` de las paletas.
+- **Condiciones de victoria**: Cambia el valor de puntos necesarios para ganar.
 
 ### 🖼️ Vista previa
 
